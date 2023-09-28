@@ -35,5 +35,5 @@ const NavbarActions = () => {
     </div>
   );
 }
- 
+
 export default NavbarActions;
